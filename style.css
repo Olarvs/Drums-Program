@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(34, 32, 32);
+}
+#title{
+    color: rgb(212, 212, 203);
+    text-shadow: 3px 0 rgb(120, 30, 155);
+}
