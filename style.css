@@ -3,6 +3,12 @@ body{
     text-align: center;
     background-color: rgb(34, 32, 32);
 }
+.logo{
+    width: 5em;
+    height: 5em;
+    float: left;
+    margin-left: 20px;
+}
 #title{
     color: rgb(212, 212, 203);
     text-shadow: 3px 0 rgb(120, 30, 155);
